@@ -1,0 +1,14 @@
+add rep
+npm init
+
+add dicord js
+npm install discord.js
+
+token
+make config.json file
+
+main
+add index.js
+
+stop
+press ctrl+win+c
